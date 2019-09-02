@@ -18,10 +18,12 @@ public class LocatorValues {
 		
 		//Edureka Log In Page
 
-		public static By enterEmail_LoginPage = By.id("inputName");
+		//public static By enterEmail_LoginPage = By.id("inputName");
+		public static By enterEmail_LoginPage = By.name("data[User][email]");
 		
-		public static By enterPassword_LoginPage = By.xpath("//*[@id='pwd1']");
-		
+		//public static By enterPassword_LoginPage = By.xpath("//*[@id='pwd1']");
+		public static By enterPassword_LoginPage = By.name("data[User][password]");
+				
 		public static By loginButton_LoginPage = By.xpath("//button[@data-gaact='Login Click']");
 
 		//Edureka Student Main Page

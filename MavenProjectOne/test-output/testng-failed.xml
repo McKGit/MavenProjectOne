@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.Module11CaseStudy">
+      <class name="testcases.Module12CaseStudy">
         <methods>
+          <include name="testLoginEdureka"/>
           <include name="beforeTest"/>
-          <include name="uploadPhotoToEdureka"/>
         </methods>
-      </class> <!-- testcases.Module11CaseStudy -->
+      </class> <!-- testcases.Module12CaseStudy -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

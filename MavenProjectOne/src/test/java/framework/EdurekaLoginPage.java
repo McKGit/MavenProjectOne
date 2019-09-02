@@ -36,7 +36,7 @@ public class EdurekaLoginPage {
 		
 		WebDriverWait webDriverWait = new WebDriverWait(driver, 30);
 
-		webDriverWait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@id='myModal']")));
+		//webDriverWait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@id='myModal']")));
 
 		return true;
 	}
