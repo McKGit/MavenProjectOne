@@ -55,7 +55,6 @@ public class Module11CaseStudy {
 		
 		EdurekaMainPage edurekaMainPage = new EdurekaMainPage(driver);
 		
-		driver.quit();			
 		
 //		EdurekaLoginPage edurekaLoginPage = edurekaMainPage.clickLoginLink();
 //		
