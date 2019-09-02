@@ -46,6 +46,13 @@
 
 <build>
 
+<configuration>
+			<suiteXmlFiles>
+				<suiteXmlFile>testngOne.xml</suiteXmlFile>
+				<suiteXmlFile>testngTwo.xml</suiteXmlFile>
+			</suiteXmlFiles>
+</configuration>
+
 <plugins>
 
    <plugin>
