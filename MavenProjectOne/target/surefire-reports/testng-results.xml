@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78174" started-at="2019-09-01T21:26:34Z" finished-at="2019-09-01T21:27:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78174" started-at="2019-09-01T21:26:34Z" finished-at="2019-09-01T21:27:52Z">
+      <class name="testcases.Module11CaseStudy">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.Module11CaseStudy@61f8bee4]" name="beforeTest" is-config="true" duration-ms="27794" started-at="2019-09-01T21:26:34Z" finished-at="2019-09-01T21:27:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="uploadPhotoToEdureka()[pri:0, instance:testcases.Module11CaseStudy@61f8bee4]" name="uploadPhotoToEdureka" duration-ms="50332" started-at="2019-09-01T21:27:02Z" finished-at="2019-09-01T21:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadPhotoToEdureka -->
+      </class> <!-- testcases.Module11CaseStudy -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
