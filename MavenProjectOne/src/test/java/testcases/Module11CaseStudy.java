@@ -60,7 +60,7 @@ public class Module11CaseStudy {
 //		
 //		edurekaLoginPage.enterEmail("abostongala@gmail.com"); //enter email here
 //		
-//		edurekaLoginPage.enterPassword("GuidoLearn39"); //enter password here
+//		edurekaLoginPage.enterPassword("WrongPassword"); //enter password here
 //
 //		EdurekaStudentMainPage edurekaStudentMainPage = edurekaLoginPage.clickLoginButton();
 
