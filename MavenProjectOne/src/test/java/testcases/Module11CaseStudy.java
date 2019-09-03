@@ -49,7 +49,7 @@ public class Module11CaseStudy {
 	
 
 	@Test				
-	public void uploadPhotoToEdureka() {	
+	public void openEdurekaMainPage() {	
 
 		driver.get(edurekaUrl);  
 		
